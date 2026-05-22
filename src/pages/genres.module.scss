@@ -1,0 +1,47 @@
+.genres{
+    display: grid;
+    grid-template-rows: 40% 60%;
+    min-height: 120vh;
+
+    .genresHero{
+    }
+    .genresStories{
+        align-content: center;
+        overflow-x: scroll;
+
+        .genresList{
+            height: 80%;
+            display: flex;
+            list-style: none;
+            align-items: center;
+            width: fit-content;
+            gap: 30px;
+
+            .story{
+                height: 300px;
+                width: 200px;
+                border-radius: 10px;
+
+                a{
+                    text-decoration: none;
+                    color: white;
+                    img{
+                        border: 1px solid black;
+                        box-shadow: 1px 1px 10px purple;
+                        border-radius: 10px;
+                        height: 100%;
+                        width: 100%;
+                    }
+                    .storyTitle{
+                        text-align: center;
+                        background: rgba(28, 1, 45, 0.5);
+                        position: relative;
+                        bottom: 100px;
+                        height: 50px;
+                        align-content: center;
+                    }
+                }
+            }
+        }
+    }
+}

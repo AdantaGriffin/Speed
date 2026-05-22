@@ -1,0 +1,56 @@
+@media only screen and (max-width: 700px) {
+    
+}
+
+.navigation{
+    padding: 10px;
+    display: grid;
+    grid-template-rows: 10% 30% 20% 20% 20%;
+    background: rgba(15, 2, 31, 0.5);
+    border-radius: 10px;
+    box-shadow: 1px, 1px, 10px, rgba(15, 2, 31, 0.5);
+    font-family: "Playfair Display";
+    font-size: 15px;
+    min-height: 120vh;
+    .logo{
+        align-content: center;
+    }
+
+    ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        align-content: center;
+        li{
+            border-bottom: 1px solid beige;
+            height: 40px;
+            align-content: center;
+            text-align: center;
+            a{
+                color: white;
+                text-decoration: none;
+            }
+            &:hover{
+                background: rgba(196, 139, 244, 0.4);
+                cursor: pointer;
+            }
+        }
+    }
+
+    .premium{
+        border: 2px solid white;
+        background: rgba(196, 139, 244, 0.4);
+        color: black;
+        text-align: center;
+        h4{
+            padding: 0;
+            margin:0;
+        }
+        button{
+            border-radius: 10px;
+        }
+    }
+}
+.premiumP{
+    font-size: 13.2px;
+}

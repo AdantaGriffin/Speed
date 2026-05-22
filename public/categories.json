@@ -1,0 +1,28 @@
+{
+    "categories":[
+        {
+            "id":"feel good",
+            "category":"feel good",
+            "image":"/images/feelGood.png",
+            "short":""
+        },
+        {
+            "id":"horror",
+            "category":"horror",
+            "image":"/images/horror.PNG",
+            "short":""
+        },
+        {
+            "id":"romance",
+            "category":"romance",
+            "image":"/images/romance.PNG",
+            "short":""
+        },
+        {
+            "id":"adventure",
+            "category":"adventure",
+            "image":"/images/adventure.PNG",
+            "short":""
+        }
+    ]
+}
