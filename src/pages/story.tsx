@@ -4,7 +4,7 @@ import { useApi } from '../components/api/api';
 
 function Story(){
     const {stories, setLevel} = useApi();
-    const {id, name} = useParams();
+    const {name} = useParams();
     //console.log(id, name)
     //console.log(stories)
     const story = stories.filter(x => x.name === name);

@@ -1,5 +1,5 @@
 import styles from './playing.module.scss';
-import { useParams, Link, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import { useApi } from '../components/api/api';
 import { useEffect } from 'react';
 
@@ -9,7 +9,7 @@ function Playing(){
     };
     const navigate = useNavigate();
     const {stories, setIndex, visibleText, setVisibleText, level, isPlaying, setIsPlaying} = useApi();
-    const {id, name} = useParams();
+    const {name} = useParams();
     //console.log(stories);
     const book = stories.filter(x => x.name === name);
     //console.log(book[0]?.story)

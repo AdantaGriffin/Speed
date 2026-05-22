@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { useApi } from '../components/api/api';
 
 function Genres(){
-    const {id, name} = useParams();
+    const {id} = useParams();
     const {stories, categories} = useApi();
     const filtered = stories.filter(x => x.type === id);
     //console.log(stories);
