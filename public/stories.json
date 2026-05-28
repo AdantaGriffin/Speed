@@ -23,6 +23,17 @@
             "language":"english"
         },
         {
+            "id":"FG3",
+            "name":"",
+            "type":"feel good",
+            "wordct":"1000",
+            "cover":"",
+            "brief":"",
+            "story":"",
+            "trending":false,
+            "language":"english"
+        },
+        {
             "id":"HR1",
             "name":"The Dog That Wasn’t There",
             "type":"horror",
@@ -33,6 +44,28 @@
             "trending":true,
             "language":"english"
 
+        },
+        {
+            "id":"HR2",
+            "name":"Red River",
+            "type":"horror",
+            "wordct":"1000",
+            "cover":"/images/redRiver.png",
+            "brief":"When three year old Charlie cuts his finger on a toy car, a drop of blood sparks a terrifying adventure. As imagination transforms fear into monsters and rivers, reality quietly returns.",
+            "story":["Charlie was three years old and three-year-olds lived in a world where everything was larger than life. The hallway outside his bedroom was a canyon. The family dog was a shaggy bear. The shadows beneath chairs were secret caves where mysterious creatures might sleep. Every day was an adventure because Charlie's imagination never rested. On a rainy afternoon while his mother folded laundry in the next room Charlie sat on the living room floor surrounded by toy cars. A red race car zipped across the carpet. A blue truck rumbled over invisible mountains. A yellow sports car leaped from the arm of the couch and landed safely in the jungle below. Charlie made engine noises with complete seriousness. The fate of entire imaginary cities depended on his driving. Then disaster struck. As he grabbed the yellow car one finger slid against a jagged edge of cracked plastic. A sharp sting flashed through his hand. \"Ow!\" Charlie dropped the car. For a moment nothing happened. Then he saw it. A tiny line appeared across the tip of his finger. A bead of red swelled from the cut. Charlie froze. Blood. To an adult it would have looked insignificant. Barely a scratch. To Charlie it was terrifying. The crimson bead grew larger. The sight of it seemed to pull all the air from the room. His eyes widened. The blood rolled slowly down the side of his finger. Something deep inside his imagination awakened. Suddenly the living room wasn't a living room anymore. The carpet became a vast wilderness stretching endlessly into darkness. The couch transformed into a towering cliff. The coffee table rose like a giant castle perched upon black stone pillars. And Charlie stood alone. The wound on his finger became a terrible crack in a mighty dam. The trickling blood was no longer blood. It was a river. A red river. It flowed from a distant mountain where storms raged beneath purple clouds. Charlie imagined tiny villages downstream. People running. Bells ringing. Bridges collapsing beneath crimson floods. The river spread across the landscape. The world trembled. His heart beat faster. The sting in his finger pulsed with every beat. The red river grew wider. It twisted through forests. It swallowed roads. It poured into dark oceans where monstrous things stirred beneath the waves. Charlie stared at his finger. Another drop formed. The monster rose. In his imagination a gigantic creature emerged from the blood-red sea. Its body was made of shadows and smoke. Its eyes glowed like lanterns. It opened a mouth filled with jagged teeth. The creature looked directly at Charlie. The little boy felt a chill crawl down his spine. The monster knew where the river came from. It knew about the crack in the dam. It knew about the wound. The creature began moving closer. Charlie wanted to run. But he couldn't. The red river continued flowing. The monster continued growing. Every second stretched longer than the last. The room became darker. The shadows beneath furniture thickened and spread. Tiny sounds creaked from hidden corners. The refrigerator hummed somewhere far away like a distant storm. The house settled with soft groans. To Charlie's imagination these were not ordinary noises. They were footsteps. Huge footsteps. Something was coming. Something ancient. Something hungry. His finger throbbed again. He looked down. The blood had reached his knuckle. It glistened in the gray afternoon light. The crimson trail caught his attention. The fear paused. Only for a moment. Charlie tilted his hand. The blood moved. Slowly. Carefully. It followed the curve of his skin. Like a tiny traveler. Like a living thing. The monster in his imagination stopped advancing. Charlie watched the blood. It wasn't rushing anymore. It wasn't flooding cities. It wasn't feeding sea monsters. It was just moving. A small red line winding through tiny hills and valleys formed by his finger. The sight fascinated him. He tilted his hand again. The river changed direction. Interesting. Very interesting. The imaginary monster waited. Charlie forgot to be afraid for a moment. The blood caught the light. Bright red. Then darker red. Almost shiny. He stared. The river no longer looked dangerous. Now it looked beautiful. Like paint. Like the winding roads on the maps in his picture books. His imagination shifted. The flooded villages disappeared. The sea monster sank beneath the waves. The endless wilderness transformed into a place of wonder. Tiny explorers sailed along the red river. Little boats drifted downstream. Brave adventurers mapped unknown territories. They crossed bridges made of sticks. They discovered hidden caves. They planted flags on distant shores. Charlie watched every movement. The pain in his finger seemed farther away now. It had become dull. The sharp sting that started everything was fading. The river slowed. The explorers slowed too. The crimson trail thickened. The bright red color darkened. The boats reached quiet harbors. The adventures came to an end. The river was drying. The magical world began disappearing. The castles faded. The forests vanished. The explorers packed their maps. Even the giant monster was gone. Not defeated. Just forgotten. Charlie blinked. The living room slowly returned. The couch was a couch again. The coffee table was a coffee table. Rain tapped softly against the windows. The refrigerator hummed. The shadows beneath the furniture were only shadows. His finger no longer hurt very much. The blood had stopped flowing. A thin crust was beginning to form over the tiny cut. Charlie stared at it. The whole adventure suddenly seemed very far away. Like a dream he couldn't quite remember. Then he heard a voice. \"Charlie?\" His mother's footsteps approached quickly. \"Charlie!\" There was worry in her voice now. Charlie looked up. His mother hurried into the room carrying a basket of folded clothes. The moment she saw the blood on his finger her eyes widened. \"Oh my goodness sweetheart what happened?\" Charlie blinked again. The question seemed strange. What happened? For a second he remembered the river. The floods. The monster. The explorers. The endless red sea. Then he looked down at his hand. There was only a tiny scratch. A tiny scratch on one finger. Nothing more. His mother knelt beside him and gently took his hand. \"Oh Charlie\" she said softly. \"You scared me.\" Charlie looked from his finger to his mother. The fear was gone. The monster was gone. The river was gone. All that remained was a small cut and a faint red stain. He smiled. \"My car bit me.\" His mother laughed with relief. Then Charlie laughed too. And just like that the vast kingdoms of terror the rivers of blood and the monsters born from imagination vanished completely leaving behind only a three-year-old boy a scratched toy car and a story that had existed nowhere except inside his head."],
+            "trending":false,
+            "language":"english"
+        },
+        {
+            "id":"HR3",
+            "name":"",
+            "type":"horror",
+            "wordct":"1000",
+            "cover":"",
+            "brief":"",
+            "story":"",
+            "trending":false,
+            "language":"english"
         },
         {
             "id":"RM1",
@@ -47,6 +80,17 @@
 
         },
         {
+            "id":"RM2",
+            "name":"",
+            "type":"romance",
+            "wordct":"1000",
+            "cover":"",
+            "brief":"",
+            "story":"",
+            "trending":false,
+            "language":"english"
+        },
+        {
             "id":"AD1",
             "name":"2017",
             "type":"adventure",
@@ -55,6 +99,17 @@
             "brief":"A chaotic Brooklyn night spirals into an unforgettable adventure as six friends stumble through wild moments, unexpected encounters, and nonstop laughter, proving the journey matters more than the destination.",
             "story":["Brooklyn 2017 started like any other summer night but it turned into something we still talk about to this day. It was myslef Nick, Anthony, Claudel, Shango and Travis. We all linked up at my house before heading into the city. The energy was already high because my mom wasnt home and that basically meant we had free reign over the night. We grabbed the Grey Goose the Smirnoff Lemon and rolled up blunts without hesitation. Music was playing loud the kind that makes everything feel like a movie and we were just laughing about nothing and everything at the same time Travis, who was supposed to be the designated walker, basically the one keeping us grounded, but that plan collapsed almost instantly. He took a drink then another then hit the weed and just like that there was no responsible one left. I remember looking at Nick thinking at least he's still good but even he was starting to drift into his own world. At that moment I knew this night was about to get out of control. We left the house stumbling and laughing like we owned the block. The night air hit different when you were lit. Everything felt slower but also more intense. Streetlights looked brighter, sounds echoed longer and even a simple walk felt like an adventure. We hadn't even made it far when the first crazy moment happened. Two bikers rode up the block out of nowhere just pedaling casually enjoyng their ride. Before we even processed it Anthony took off running after them full speed in his Timberland boots like he was in a race that nobody else knew about. We all just stood there confused for a second then burst out laughing. He was not catching them but he was giving it everything he had. His boots slamming against the concrete the way he leaned forward like he was about to fly, it was one of those moments that made no sense but was perfect at the same time. Eventually he slowed down and walked back like nothing happened and we just kept moving still laughing and shaking our heads. The block seemed longer than usual and every step felt like it took more effort than it should have. We were talking over each other joking arguing about nothing and everything all at once. Then we turned the corner and thats when the energy shifted. Two large figures were walking towards us one of them holding a dog that looked just as big as him. The kind of dog that makes you second guess your choices even when youre not drunk. Before anyone could react Shango stepped forward and without warning slapped the guy. The sound was loud sharp and echoed down the block. Everything stopped. The man stopped walking, the dog stopped too and for a split second it felt like time froze. We all just looked at each other like what just happened. Then reality hit. This was not funny anymore. The guy was huge the dog looked like it could take all of us out if it wanted to and Shango was nowhere to be seen. We didnt even know when he disappeared. It was just us standing there trying to fix something we didnt cause. We started apologizing quickly talking over each other trying to explain that our friend was drunk and out of line. The man looked at us for a moment his face hard to read. The dog just stood there calm but alert. Then somehow he just nodded like it wasnt worth it and kept walking. We stood there for a second longer just processing what just happened then slowly started moving again. The energy was different now still drunk but more aware like we just got reminded that things could go left real quick. We finally made it to the train station and at that point it felt like a mission accomplished. But the night was far from over. The train ride was a whole new level of chaos. We piled into the car loud uncoordinated and clearly out of place. The train moved and it felt like the world was shifting underneath us. We were holding onto poles trying to stay balanced but mostly failing. Thats when we ran into her A woman who seemed completely unbothered by anything around her. She started talking to us randomly like we were old friends and then out of nowhere said 'men arent the only ones who can pee in public'. Before we could even react she turned slightly and actually proved her point. It was so unexpected so out of left field that we didnt even know how to respond. We just looked at each other in shock then burst out laughing again. The train kept moving the city getting closer with every stop and at this point we were just along for the ride. Finally we made it into the city and stepped out into the lights the noise the energy It was everything you expect and more but funny enough we completely forgot why we came. We stood there looking around trying to remember what the plan was but it didnt even matter. We made it. That was the goal. That was the story. The journey was the adventure and everything that happened along the way was what actually mattered. We walked through the city still laughing still shaking our heads at what just happened knowing this was one of those nights we were never going to forget. One of those nights that starts random and ends legendary just because of the people youre with and the moments you didnt see coming"],
             "trending":true,
+            "language":"english"
+        },
+        {
+            "id":"AD2",
+            "name":"",
+            "type":"adventure",
+            "wordct":"1000",
+            "cover":"",
+            "brief":"",
+            "story":"",
+            "trending":false,
             "language":"english"
         }
     ]
