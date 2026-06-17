@@ -1,8 +1,9 @@
 import styles from './genres.module.scss';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { useApi } from '../components/api/api';
 
 function Genres(){
+    const navigate = useNavigate();
     const {id} = useParams();
     const {stories, categories} = useApi();
     const filtered = stories.filter(x => x.type === id);
@@ -14,7 +15,7 @@ function Genres(){
         <>
             <section className={styles.genres}>
                 <div style={{ backgroundImage: `url(${cat[0]?.image})`, backgroundSize: '100% 100%'}} className={styles.genresHero}>
-                    
+                    <button onClick={() => navigate(-1)}><img src="/images/left-arrow.png" height="20px"/></button>
                 </div>
                 <div className={styles.genresStories}>
                     <ul className={styles.genresList}>
