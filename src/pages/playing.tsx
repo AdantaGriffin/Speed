@@ -45,42 +45,6 @@ function Playing(){
                         {visibleText ? visibleText : "Press play when ready"}
                     </div>
 
-                    <div className={styles.topRight}>
-                        {/*<div className={styles.controls}>
-                            <input name="slowest" value="slowest" type="checkbox"/>
-                            <label htmlFor="slowest">slowest</label>
-
-                            <input name="slow" value="slow" type="checkbox"/>
-                            <label htmlFor="slow">slow</label>
-
-                            <input name="medium" value="medium" type="checkbox"/>
-                            <label htmlFor="medium">medium</label>
-
-                            <input name="fast" value="fast" type="checkbox"/>
-                            <label htmlFor="fast">fast</label>
-                        </div>
-                        <div className={styles.controls}>
-                            <input name="22" value="22px" type="checkbox"/>
-                            <label htmlFor="22">default (22px)</label>
-
-                            <input name="24" value="24" type="checkbox"/>
-                            <label htmlFor="24">24 px</label>
-
-                            <input name="26" value="26" type="checkbox"/>
-                            <label htmlFor="26">26 px</label>
-
-                            <input name="28" value="28" type="checkbox"/>
-                            <label htmlFor="28">28 px</label>
-                        </div>
-                        <div className={styles.controls}>
-                            <input name="light" value="light" type="checkbox"/>
-                            <label htmlFor="light">light</label>
-
-                            <input name="dark" value="dark" type="checkbox"/>
-                            <label htmlFor="dark">dark</label>
-                        </div>*/}
-                    </div>
-
                 </div>
 
                 <div className={styles.playingBot}>
