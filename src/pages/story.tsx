@@ -41,8 +41,6 @@ function Story(){
                                 <p>release: May 2026</p>
                             </div>
 
-                            <div className={styles.storyLove}>list of quick description tags</div>
-
                         </div>
 
                     </div>

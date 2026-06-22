@@ -38,16 +38,10 @@ function Home(){
                                 <Link 
                                 onClick={toTop}
                                 to={`/genres/${x.id}`}>
-                                {x.category}
+                                click
                                 </Link>
                             </li>
                         ))}
-                        {/*<li className={styles.genres}>1</li>
-                        <li className={styles.genres}>1</li>
-                        <li className={styles.genres}>1</li>
-                        <li className={styles.genres}>1</li>
-                        <li className={styles.genres}>1</li>
-                        <li className={styles.genres}>1</li>*/}
                     </ul>
                 </div>
 
@@ -63,15 +57,9 @@ function Home(){
                             key={x.id}
                             onClick={toTop}
                             className={styles.trend} >
-                                <Link to={`/genres/${x.id}/${x.name}`}>{x.name}</Link>
+                                <Link to={`/genres/${x.id}/${x.name}`}>click</Link>
                             </li>
                         ))}
-                        {/*<li className={styles.trend}>1</li>
-                        <li className={styles.trend}>1</li>
-                        <li className={styles.trend}>1</li>
-                        <li className={styles.trend}>1</li>
-                        <li className={styles.trend}>1</li>
-                        <li className={styles.trend}>1</li>*/}
                     </ul>
                 </div>
 

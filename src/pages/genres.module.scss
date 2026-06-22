@@ -9,6 +9,10 @@
             border-radius: 100%;
             border: none;
             margin: 10px;
+            &:hover{
+                cursor: pointer;
+                transform: scale(1.1);
+            }
         }
     }
     .genresStories{
